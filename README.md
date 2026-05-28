@@ -1,15 +1,38 @@
-# 💫 About Me:
-AI Engineer and Founder building production-grade intelligent systems across automation, fintech, voice AI, and applied ML.
+## Nishchay Mahor
 
-Master’s in Data Science at UC San Diego. Previously delivered enterprise AI at C5i.ai. Now building scalable AI products under ContextJet.ai.
+ML Systems Engineer at [MyStage Music](https://mysta.ge). MS in Data Science at UC San Diego.
+Incoming ML intern at [Infoblox](https://www.infoblox.com/) for Summer 2026.
+Building production AI systems: agent pipelines, RAG, voice agents, and the unglamorous infra that keeps them upright.
 
-Currently working on:
-Browser automation systems, AI tools for musicians, accounting & AML intelligence platforms, and production-grade RAG and voice agents.
+San Diego, CA · [LinkedIn](https://linkedin.com/in/nishchaymahor) · [Medium](https://medium.com/@emailfornishchay) · [contextjetai.com/nishchay](https://contextjetai.com/nishchay) · emailfornishchay@gmail.com
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishchaymahor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchaymahor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emailfornishchay@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+### What I'm working on
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[MyStage Music](https://mysta.ge)** – I work on the AI pipelines. It's a live-music discovery platform connecting independent artists with audiences and venues.
+- **Open source** – Shipping fixes and features to the AI tooling I actually use day to day. Recent merges in [promptfoo](https://github.com/promptfoo/promptfoo) (NVIDIA NIM provider) and [dify](https://github.com/langgenius/dify) (typing pass on storage adapters). Open PRs in [garak](https://github.com/NVIDIA/garak), [dspy](https://github.com/stanfordnlp/dspy), [phoenix](https://github.com/Arize-ai/phoenix), MCP [Python](https://github.com/modelcontextprotocol/python-sdk) + [TypeScript](https://github.com/modelcontextprotocol/typescript-sdk) SDKs, [openllmetry](https://github.com/traceloop/openllmetry), [openai-cookbook](https://github.com/openai/openai-cookbook), and a few more.
+- **Talks & writing** – Keynote on synthetic market surveys at MLDS 2024, published in Lattice Journal (AoDS).
+
+### Selected work
+
+| Project | What it does | Impact |
+|---|---|---|
+| **Multimodal Synthetic Market Surveys** (C5i.ai) | Real-time respondent synthesis for CPG and marketing studies. LangChain, Azure OpenAI, multi-agent pipelines, Apify. | ~90% accuracy vs live benchmarks. $300K+ in attributable revenue. |
+| **LLM Virtual Try-On Assistant** (C5i.ai, apparel client) | Diffusion-based try-on (StableVITON) + OpenAI image + LangGraph + MediaPipe + Pinecone RAG over catalog. | Time-on-page +25%, CTR +18%. |
+| **PAM + planning** (Industry 4.0) | Vibration/temperature anomaly detection + RAG + forecasting for conveyor maintenance. scikit-learn, Prophet, LangGraph, Pinecone, Databricks. | Unplanned maintenance −15%, planning cycle −30%. |
+| **Last-mile delivery graph** (Supply chain) | Neo4j/Cypher knowledge graph over routes, hubs, SLAs. FastAPI surface. | On-time delivery +8%, route time −12%. |
+| **CLTV models** (semiconductor OEMs) | BG/NBD + Gamma-Gamma on laptop and cloud channels. Databricks, MLflow. | MAE −18% on spend prediction, campaign ROI +15%. |
+
+### Stack I reach for
+
+**Languages** Python, SQL, TypeScript, C++, Bash
+**ML & modeling** PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, Prophet, MLflow
+**LLM tooling** LangChain, LangGraph, LlamaIndex, DSPy, MCP, Hugging Face, OpenAI, Anthropic, Pinecone, Milvus, Weaviate, FAISS
+**Infra & delivery** Docker, Kubernetes, FastAPI, GitHub Actions, Azure, AWS, Databricks, Supabase
+**Frontend & data viz** React, Next.js, Streamlit, Plotly, D3.js, Dash
+
+### Writing
+
+- *Revolutionizing Market Surveys through Generative AI for Efficient Data Synthesis* – keynote at the [Machine Learning Developers Summit 2024](https://mlds.analyticsindiamag.com/), published in Lattice Journal (AoDS), Vol. 5 Issue 1.
+
