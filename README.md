@@ -57,16 +57,5 @@ When I get a weekend and a problem statement, I build things like **StepWise** (
 ---
 
 <p align="center">
-  <a href="https://github.com/NishchayMahor">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NishchayMahor&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&text_color=e6e6e6&icon_color=58a6ff&title_color=58a6ff">
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NishchayMahor&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&text_color=24292f&icon_color=0969da&title_color=0969da">
-    </picture>
-  </a>
-  <a href="https://github.com/NishchayMahor">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchayMahor&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&text_color=e6e6e6&title_color=58a6ff">
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchayMahor&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&text_color=24292f&title_color=0969da">
-    </picture>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,typescript,pytorch,tensorflow,fastapi,docker,kubernetes,aws,azure,gcp,postgres,redis,react,nextjs,git,linux&perline=8" alt="Stack" />
 </p>
