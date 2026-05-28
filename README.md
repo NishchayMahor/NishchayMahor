@@ -15,15 +15,30 @@
 I build production AI systems and the unglamorous infra that keeps them upright. I get nerd-sniped by anything at the intersection of evals, agent orchestration, and inference cost.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,bash,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,nodejs,docker,kubernetes,aws,azure,gcp,postgres,redis,mongodb,supabase,git,github,githubactions,linux&perline=13" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,bash,pytorch,tensorflow,sklearn,fastapi,react,nextjs,nodejs,docker,kubernetes,aws,azure,gcp,postgres,redis,supabase&perline=11" alt="Core stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-181818?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/DSPy-2F4858?style=for-the-badge&logoColor=white" alt="DSPy" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pinecone-1B8DC4?style=for-the-badge&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white" alt="Weaviate" />
+  <img src="https://img.shields.io/badge/FAISS-336791?style=for-the-badge&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
 ### Stack I reach for
 
 **Languages** Python, SQL, TypeScript, C++, Bash
 **ML & modeling** PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, Prophet, MLflow
-**LLM tooling** LangChain, LangGraph, LlamaIndex, DSPy, MCP, Hugging Face, OpenAI, Anthropic, Pinecone, Milvus, Weaviate, FAISS
-**Infra & delivery** Docker, Kubernetes, FastAPI, GitHub Actions, Azure, AWS, Databricks, Supabase
+**LLM tooling** LangChain, LangGraph, LlamaIndex, DSPy, MCP, Hugging Face, OpenAI, Anthropic
+**Vector & graph** Pinecone, Milvus, Weaviate, FAISS, Neo4j
+**Infra & delivery** Docker, Kubernetes, FastAPI, GitHub Actions, Azure, AWS, GCP, Databricks, Supabase
 **Frontend & data viz** React, Next.js, Streamlit, Plotly, D3.js, Dash
 
 ### Now
