@@ -14,6 +14,18 @@
 
 I build production AI systems and the unglamorous infra that keeps them upright. I get nerd-sniped by anything at the intersection of evals, agent orchestration, and inference cost.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,bash,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,nodejs,docker,kubernetes,aws,azure,gcp,postgres,redis,mongodb,supabase,git,github,githubactions,linux&perline=13" alt="Tech stack" />
+</p>
+
+### Stack I reach for
+
+**Languages** Python, SQL, TypeScript, C++, Bash
+**ML & modeling** PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, Prophet, MLflow
+**LLM tooling** LangChain, LangGraph, LlamaIndex, DSPy, MCP, Hugging Face, OpenAI, Anthropic, Pinecone, Milvus, Weaviate, FAISS
+**Infra & delivery** Docker, Kubernetes, FastAPI, GitHub Actions, Azure, AWS, Databricks, Supabase
+**Frontend & data viz** React, Next.js, Streamlit, Plotly, D3.js, Dash
+
 ### Now
 
 - Working on the AI pipelines at **[MyStage Music](https://mysta.ge)**, a live-music discovery platform connecting independent artists with audiences and venues.
@@ -37,14 +49,6 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 - The best LangChain users I know also use less of LangChain over time.
 - The cheapest performance win is almost always a smaller, better prompt. The second cheapest is caching. Quantization is rarely the answer people think it is.
 
-### Stack I reach for
-
-**Languages** Python, SQL, TypeScript, C++, Bash
-**ML & modeling** PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, Prophet, MLflow
-**LLM tooling** LangChain, LangGraph, LlamaIndex, DSPy, MCP, Hugging Face, OpenAI, Anthropic, Pinecone, Milvus, Weaviate, FAISS
-**Infra & delivery** Docker, Kubernetes, FastAPI, GitHub Actions, Azure, AWS, Databricks, Supabase
-**Frontend & data viz** React, Next.js, Streamlit, Plotly, D3.js, Dash
-
 ### Hackathon builds
 
 When I get a weekend and a problem statement, I build things like **StepWise** (AWS Breaking Barriers 2024, digital inclusion copilot), **DocuGuard AI** (HackAI Dell/NVIDIA 2024, enterprise document risk), and **NeuroForecast AI** (UCSD SMASH NSF HDR 2026, OOD-robust neural forecasting). Constraints make for sharper systems.
@@ -53,9 +57,3 @@ When I get a weekend and a problem statement, I build things like **StepWise** (
 
 - *Revolutionizing Market Surveys through Generative AI for Efficient Data Synthesis*, keynote at the [Machine Learning Developers Summit 2024](https://mlds.analyticsindiamag.com/), published in Lattice Journal (AoDS), Vol. 5 Issue 1.
 - Occasional notes on [Medium](https://medium.com/@emailfornishchay).
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,pytorch,tensorflow,fastapi,docker,kubernetes,aws,azure,gcp,postgres,redis,react,nextjs,git,linux&perline=8" alt="Stack" />
-</p>
