@@ -63,6 +63,7 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 - Agent frameworks are mostly thin glue. Read the source before you adopt one.
 - The best LangChain users I know also use less of LangChain over time.
 - The cheapest performance win is almost always a smaller, better prompt. The second cheapest is caching. Quantization is rarely the answer people think it is.
+- REAL MADRID and CR7. 
 
 ### Hackathon builds
 
