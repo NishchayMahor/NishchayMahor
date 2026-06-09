@@ -1,7 +1,7 @@
 <h1 align="center">Nishchay Mahor</h1>
 <p align="center">
   ML Systems Engineer at <a href="https://mysta.ge">MyStage Music</a> · MS in Data Science at UC San Diego<br/>
-  Incoming ML intern at <a href="https://www.infoblox.com/">Infoblox</a> for Summer 2026
+  Incoming Product Management intern at <a href="https://www.infoblox.com/">Infoblox</a> for Summer 2026
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/nishchaymahor">LinkedIn</a> ·
