@@ -1,7 +1,7 @@
 <h1 align="center">Nishchay Mahor</h1>
 <p align="center">
   ML Systems Engineer at <a href="https://mysta.ge">MyStage Music</a> · MS in Data Science at UC San Diego<br/>
-  Incoming Product Management intern at <a href="https://www.infoblox.com/">Infoblox</a> for Summer 2026
+  Product Management Intern at <a href="https://www.infoblox.com/">Infoblox</a> (Summer 2026)
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/nishchaymahor">LinkedIn</a> ·
@@ -43,9 +43,23 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 
 ### Now
 
+- Spending the summer in the product org at **[Infoblox](https://www.infoblox.com/)** as a Product Management intern.
 - Working on the AI pipelines at **[MyStage Music](https://mysta.ge)**, a live-music discovery platform connecting independent artists with audiences and venues.
-- Shipping fixes and features into the AI tooling I actually use day to day. Recent merges in [promptfoo](https://github.com/promptfoo/promptfoo) (NVIDIA NIM provider) and [dify](https://github.com/langgenius/dify). Open PRs in [garak](https://github.com/NVIDIA/garak), [dspy](https://github.com/stanfordnlp/dspy), [phoenix](https://github.com/Arize-ai/phoenix), the [MCP Python](https://github.com/modelcontextprotocol/python-sdk) and [TypeScript](https://github.com/modelcontextprotocol/typescript-sdk) SDKs, [openllmetry](https://github.com/traceloop/openllmetry), [openai-cookbook](https://github.com/openai/openai-cookbook), and a few more.
+- Shipping fixes and features into the AI tooling I actually use day to day — eight merged PRs and counting, highlights below.
 - Reading the LangGraph internals, whatever new agent paper is going viral that week, and the older systems books that age well (Designing Data-Intensive Applications stays open on my desk).
+
+### Open source
+
+The merges I'd show first:
+
+- **[NVIDIA garak](https://github.com/NVIDIA/garak/pull/1809)** — native Anthropic generator for the LLM vulnerability scanner
+- **[dify](https://github.com/langgenius/dify/pull/36755)** — storage-layer `@override` refactor in the most-starred open-source LLM app platform
+- **[promptfoo](https://github.com/promptfoo/promptfoo)** — three provider integrations: [NVIDIA NIM](https://github.com/promptfoo/promptfoo/pull/9491), [Fireworks AI](https://github.com/promptfoo/promptfoo/pull/9542), and [Moonshot Kimi](https://github.com/promptfoo/promptfoo/pull/9672)
+- **[Mistral AI](https://github.com/mistralai/mistral-common/pull/231)** — `from_model` deprecation fix in the official tokenizer library
+- **[AWS agentcore-cli](https://github.com/aws/agentcore-cli/pull/1424)** — zip-stage config regression fix
+- **[Mirascope](https://github.com/Mirascope/mirascope/pull/2865)** — XAIProvider, Grok through the Responses API
+
+Still open in [dspy](https://github.com/stanfordnlp/dspy/pull/9848), [phoenix](https://github.com/Arize-ai/phoenix/pull/13505), [openllmetry](https://github.com/traceloop/openllmetry/pull/4202), [aider](https://github.com/Aider-AI/aider/pull/5200), the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/2170), and a few more.
 
 ### Selected work
 
