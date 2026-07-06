@@ -45,7 +45,7 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 
 - Spending the summer in the product org at **[Infoblox](https://www.infoblox.com/)** as a Product Management intern.
 - Working on the AI pipelines at **[MyStage Music](https://mysta.ge)**, a live-music discovery platform connecting independent artists with audiences and venues.
-- Shipping fixes and features into the AI tooling I actually use day to day — eight merged PRs and counting, highlights below.
+- Shipping fixes and features into the AI tooling I actually use day to day; eight merged PRs and counting, highlights below.
 - Reading the LangGraph internals, whatever new agent paper is going viral that week, and the older systems books that age well (Designing Data-Intensive Applications stays open on my desk).
 
 ### Open source
