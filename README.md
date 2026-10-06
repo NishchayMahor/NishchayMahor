@@ -45,21 +45,29 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 
 - Spending the summer in the product org at **[Infoblox](https://www.infoblox.com/)** as a Product Management intern.
 - Working on the AI pipelines at **[MyStage Music](https://mysta.ge)**, a live-music discovery platform connecting independent artists with audiences and venues.
-- Shipping fixes and features into the AI tooling I actually use day to day; eight merged PRs and counting, highlights below.
+- Shipping fixes and features into the AI tooling I actually use day to day; 30 merged PRs across 20 orgs so far, highlights below.
 - Reading the LangGraph internals, whatever new agent paper is going viral that week, and the older systems books that age well (Designing Data-Intensive Applications stays open on my desk).
 
 ### Open source
 
 The merges I'd show first:
 
+- **[Apple MLX](https://github.com/ml-explore/mlx-lm/pull/1912)** — `top_p` small enough to round past float precision masked every token, so the sampler returned noise instead of the most likely one. Worst at bfloat16, which is what on-device inference actually runs.
+- **[Comet Opik](https://github.com/comet-ml/opik)** — four merges: [Groq](https://github.com/comet-ml/opik/pull/7341) and [Cerebras](https://github.com/comet-ml/opik/pull/7342) integrations, the [Ollama SDK integration](https://github.com/comet-ml/opik/pull/8368), and a [logging fix](https://github.com/comet-ml/opik/pull/8238) that was swallowing every stream diagnostic
+- **[dottxt outlines](https://github.com/dottxt-ai/outlines)** — three merges on the structured-generation types, found by differential-fuzzing the hand-rolled regexes against `ipaddress`: [RFC 4291 IPv4-embedded IPv6](https://github.com/dottxt-ai/outlines/pull/1936), [leading-zero octets](https://github.com/dottxt-ai/outlines/pull/1904), [a broken style gate](https://github.com/dottxt-ai/outlines/pull/2003)
 - **[NVIDIA garak](https://github.com/NVIDIA/garak/pull/1809)** — native Anthropic generator for the LLM vulnerability scanner
 - **[dify](https://github.com/langgenius/dify/pull/36755)** — storage-layer `@override` refactor in the most-starred open-source LLM app platform
+- **[Stanford DSPy](https://github.com/stanfordnlp/dspy/pull/9977)** — `Document.format()` was emitting an invalid source type for PDFs
+- **[Google A2A](https://github.com/a2aproject/a2a-python/pull/1153)** — a silently-ignored `queue_manager` in the v2 request handler, with the warning the project's own test harness needed
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** — three provider integrations: [NVIDIA NIM](https://github.com/promptfoo/promptfoo/pull/9491), [Fireworks AI](https://github.com/promptfoo/promptfoo/pull/9542), and [Moonshot Kimi](https://github.com/promptfoo/promptfoo/pull/9672)
+- **[Arize openinference](https://github.com/Arize-ai/openinference)** — [Cohere](https://github.com/Arize-ai/openinference/pull/3349), [Ollama](https://github.com/Arize-ai/openinference/pull/3348) and [Together AI](https://github.com/Arize-ai/openinference/pull/3350) instrumentors
 - **[Mistral AI](https://github.com/mistralai/mistral-common/pull/231)** — `from_model` deprecation fix in the official tokenizer library
 - **[AWS agentcore-cli](https://github.com/aws/agentcore-cli/pull/1424)** — zip-stage config regression fix
-- **[Mirascope](https://github.com/Mirascope/mirascope/pull/2865)** — XAIProvider, Grok through the Responses API
+- **[SQLMesh](https://github.com/SQLMesh/sqlmesh/pull/5878)** — invalidating a nonexistent environment failed silently instead of erroring
 
-Still open in [dspy](https://github.com/stanfordnlp/dspy/pull/9848), [phoenix](https://github.com/Arize-ai/phoenix/pull/13505), [openllmetry](https://github.com/traceloop/openllmetry/pull/4202), [aider](https://github.com/Aider-AI/aider/pull/5200), the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/2170), and a few more.
+Also merged into Weaviate, Deepgram, Voyage AI, Cartesia, Braintrust, Baseten Truss, Mirascope and ogx.
+
+Still open in [openllmetry](https://github.com/traceloop/openllmetry/pull/4202), [aider](https://github.com/Aider-AI/aider/pull/5200), the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/2170), [vLLM](https://github.com/vllm-project/vllm/pull/49923), [pinecone](https://github.com/pinecone-io/python-sdk/pull/683) and a few more.
 
 ### Selected work
 
