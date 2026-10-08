@@ -1,7 +1,7 @@
 <h1 align="center">Nishchay Mahor</h1>
 <p align="center">
-  ML Systems Engineer at <a href="https://mysta.ge">MyStage Music</a> · MS in Data Science at UC San Diego<br/>
-  Product Management Intern at <a href="https://www.infoblox.com/">Infoblox</a> (Summer 2026)
+  MS in Data Science at UC San Diego · graduating December 2026<br/>
+  Machine Learning Engineering Intern at <a href="https://www.infoblox.com/">Infoblox</a> (Summer 2026)
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/nishchaymahor">LinkedIn</a> ·
@@ -43,9 +43,10 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 
 ### Now
 
-- Spending the summer in the product org at **[Infoblox](https://www.infoblox.com/)** as a Product Management intern.
-- Working on the AI pipelines at **[MyStage Music](https://mysta.ge)**, a live-music discovery platform connecting independent artists with audiences and venues.
-- Shipping fixes and features into the AI tooling I actually use day to day; 30 merged PRs across 20 orgs so far, highlights below.
+- Shipping fixes and features into the AI tooling I actually use day to day. **30 merged PRs across 20 orgs** so far — mostly provider integrations and correctness fixes found by differential-fuzzing hand-rolled parsers against the stdlib. Highlights below.
+- Building and maintaining my own tools under **[ContextJet-ai](https://github.com/ContextJet-ai)**: <img src="https://github.com/ContextJet-ai.png?size=40" width="16" height="16" align="top" alt="" /> **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** <img src="https://img.shields.io/github/stars/ContextJet-ai/awesome-llm-observability?style=flat-square&label=%E2%98%85&labelColor=161b22&color=30363d" align="top" alt="stars" /> — 50+ curated observability tools plus 26 installable agent skills — and **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)**, a one-command health check for MCP servers ([on PyPI](https://pypi.org/project/mcpvitals/)): health score, token cost, tool-confusion and migration readiness.
+- Back at **UC San Diego** for the last stretch of the MS in Data Science, graduating December 2026 and looking for ML / AI engineering roles.
+- Just wrapped a summer at **[Infoblox](https://www.infoblox.com/)** as an ML engineering intern — a probability-to-renew model for a flagship product line (0.89 AUC) feeding renewal-risk prioritisation for sales, customer health scoring across every active account, and research into the agentic AI roadmap for their DNS security product.
 - Reading the LangGraph internals, whatever new agent paper is going viral that week, and the older systems books that age well (Designing Data-Intensive Applications stays open on my desk).
 
 ### Open source
