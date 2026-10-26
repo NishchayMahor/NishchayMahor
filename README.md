@@ -47,7 +47,7 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 - Building and maintaining my own tools under **[ContextJet-ai](https://github.com/ContextJet-ai)**: <img src="https://github.com/ContextJet-ai.png?size=40" width="16" height="16" align="top" alt="" /> **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** <img src="https://img.shields.io/github/stars/ContextJet-ai/awesome-llm-observability?style=flat-square&label=%E2%98%85&labelColor=161b22&color=30363d" align="top" alt="stars" /> — 50+ curated observability tools plus 26 installable agent skills — and **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)**, a one-command health check for MCP servers ([on PyPI](https://pypi.org/project/mcpvitals/)): health score, token cost, tool-confusion and migration readiness.
 - Back at **UC San Diego** for the last stretch of the MS in Data Science, graduating December 2026 and looking for ML / AI engineering roles.
 - Just wrapped a summer at **[Infoblox](https://www.infoblox.com/)** as an ML engineering intern — a probability-to-renew model for a flagship product line (0.89 AUC) feeding renewal-risk prioritisation for sales, customer health scoring across every active account, and research into the agentic AI roadmap for their DNS security product.
-- Reading the LangGraph internals, whatever new agent paper is going viral that week, and the older systems books that age well (Designing Data-Intensive Applications stays open on my desk).
+- Reading the LangGraph internals, whatever new agent paper is going viral that week, mostly if i am not getting lazy.
 
 ### Open source
 
