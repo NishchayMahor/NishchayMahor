@@ -10,7 +10,21 @@
   <a href="mailto:emailfornishchay@gmail.com">emailfornishchay@gmail.com</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/NishchayMahor?tab=followers"><img src="https://img.shields.io/github/followers/NishchayMahor?style=flat-square&label=follow&labelColor=161b22&color=30363d" alt="follow" /></a>
+</p>
+
 ---
+
+### Try one of my tools in 30 seconds
+
+| Tool | What you get | Run it |
+|---|---|---|
+| **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)** | Health score, token cost and tool-confusion check for any MCP server | `uvx mcpvitals check <server>` |
+| **[skillvitals](https://github.com/ContextJet-ai/skillvitals)** | Does your agent skill trigger when it should, and does it actually help? Works offline or on a cheap model | `uv tool install git+https://github.com/ContextJet-ai/skillvitals` |
+| **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** | 50+ curated tracing/eval tools with a OTel-native comparison table, plus 26 installable agent skills | star it, then browse |
+
+If one of these saved you time, a ⭐ on the repo or a follow here is how I know to keep building them.
 
 I build production AI systems and the unglamorous infra that keeps them upright. I get nerd-sniped by anything at the intersection of evals, agent orchestration, and inference cost.
 
@@ -43,8 +57,8 @@ I build production AI systems and the unglamorous infra that keeps them upright.
 
 ### Now
 
-- Shipping fixes and features into the AI tooling I actually use day to day. **34 merged PRs across 21 orgs** so far including provider integrations and correctness fixes found by differential-fuzzing hand-rolled parsers against the stdlib. Highlights below.
-- Building and maintaining my own tools under **[ContextJet-ai](https://github.com/ContextJet-ai)**: <img src="https://github.com/ContextJet-ai.png?size=40" width="16" height="16" align="top" alt="" /> **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** <img src="https://img.shields.io/github/stars/ContextJet-ai/awesome-llm-observability?style=flat-square&label=%E2%98%85&labelColor=161b22&color=30363d" align="top" alt="stars" /> — 50+ curated observability tools plus 26 installable agent skills — and **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)**, a one-command health check for MCP servers ([on PyPI](https://pypi.org/project/mcpvitals/)): health score, token cost, tool-confusion and migration readiness.
+- Shipping fixes and features into the AI tooling I actually use day to day. **35 merged PRs across 22 orgs** so far including provider integrations and correctness fixes found by differential-fuzzing hand-rolled parsers against the stdlib. Highlights below.
+- Building and maintaining my own tools under **[ContextJet-ai](https://github.com/ContextJet-ai)**: <img src="https://github.com/ContextJet-ai.png?size=40" width="16" height="16" align="top" alt="" /> **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** <img src="https://img.shields.io/github/stars/ContextJet-ai/awesome-llm-observability?style=flat-square&label=%E2%98%85&labelColor=161b22&color=30363d" align="top" alt="stars" /> — 50+ curated observability tools plus 26 installable agent skills — **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)**, a one-command health check for MCP servers ([on PyPI](https://pypi.org/project/mcpvitals/)): health score, token cost, tool-confusion and migration readiness, and **[skillvitals](https://github.com/ContextJet-ai/skillvitals)**, which measures whether an agent skill triggers when it should and actually helpsmigration readiness, and **[skillvitals](https://github.com/ContextJet-ai/skillvitals)**, which checks whether an agent skill triggers when it should and actually helps.
 - Back at **UC San Diego** for the last stretch of the MS in Data Science, graduating December 2026 and looking for ML / AI engineering roles.
 - Just wrapped a summer at **[Infoblox](https://www.infoblox.com/)** as an ML engineering intern — a probability-to-renew model for a flagship product line (0.89 AUC) feeding renewal-risk prioritisation for sales, customer health scoring across every active account, and research into the agentic AI roadmap for their DNS security product.
 - Reading the LangGraph internals, whatever new agent paper is going viral that week, mostly if i am not getting lazy.
