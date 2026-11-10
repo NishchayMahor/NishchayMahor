@@ -18,11 +18,11 @@
 
 ### Try one of my tools in 30 seconds
 
-| Tool | What you get | Run it |
-|---|---|---|
-| **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)** | Health score, token cost and tool-confusion check for any MCP server | `uvx mcpvitals check <server>` |
-| **[skillvitals](https://github.com/ContextJet-ai/skillvitals)** | Does your agent skill trigger when it should, and does it actually help? Works offline or on a cheap model | `uv tool install git+https://github.com/ContextJet-ai/skillvitals` |
-| **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** | 50+ curated tracing/eval tools with a OTel-native comparison table, plus 26 installable agent skills | star it, then browse |
+| Tool | What you get | Run it | Live |
+|---|---|---|---|
+| **[mcpvitals](https://github.com/ContextJet-ai/mcpvitals)** | Health score, token cost and tool-confusion check for any MCP server | `uvx mcpvitals check <server>` | <img src="https://img.shields.io/pypi/dw/mcpvitals?style=flat-square&label=downloads&labelColor=161b22&color=1f6feb" alt="downloads" /> |
+| **[skillvitals](https://github.com/ContextJet-ai/skillvitals)** | Does your agent skill trigger when it should, and does it actually help? Works offline or on a cheap model | `uv tool install git+https://github.com/ContextJet-ai/skillvitals` | <img src="https://img.shields.io/github/stars/ContextJet-ai/skillvitals?style=flat-square&label=stars&labelColor=161b22&color=1f6feb" alt="stars" /> |
+| **[awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability)** | 100+ curated tracing/eval tools with an OTel-native comparison table, plus 26 installable agent skills | star it, then browse | <img src="https://img.shields.io/github/stars/ContextJet-ai/awesome-llm-observability?style=flat-square&label=stars&labelColor=161b22&color=1f6feb" alt="stars" /> |
 
 If one of these saved you time, a ⭐ on the repo or a follow here is how I know to keep building them.
 
